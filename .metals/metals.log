@@ -1,0 +1,34 @@
+INFO  time: initialize in 0.33s
+WARN  Skipping build import for unsupported sbt version 0.13.13
+WARN  no build target: /home/adrian/src/fpinscala/answerkey/applicative/01.answer.scala
+WARN  no build target: /home/adrian/src/fpinscala/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+INFO  no build target: using presentation compiler with only scala-library
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/iomonad/Monad.scala
+WARN  no build target: /home/adrian/src/scala/ex2-2.scala
+Sep 29, 2019 6:33:20 PM scala.meta.internal.pc.CompletionProvider expected$1
+WARNING: String index out of range: -1
+WARN  no build target: /home/adrian/src/scala/ex-2-3.scala
+ERROR scalafmt: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala:142: error: ; expected but integer constant found
+  }1
+   ^
+ERROR scalafmt: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala:142: error: ; expected but integer constant found
+  }1
+   ^
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+ERROR scalafmt: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala:142: error: ; expected but integer constant found
+  }1
+   ^
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+WARN  no build target: /home/adrian/src/fpinscala/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/answers/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file '/home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala' because it doesn't belong to a build target.
+WARN  no build target: /home/adrian/src/fpinscala/exercises/src/main/scala/fpinscala/gettingstarted/GettingStarted.scala
